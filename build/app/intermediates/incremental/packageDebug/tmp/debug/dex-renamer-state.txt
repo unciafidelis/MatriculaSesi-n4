@@ -1,0 +1,4 @@
+#Sun Aug 09 03:35:59 CDT 2020
+base.0=/Users/AeonEpix/Documents/Unid2020/Tareas/Tendencias de Movilidad y Colaboración/App Android - Proyecto Matricula Sesión 4/Sesión4_Matrícula/androidapp_sesion4_tmc/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
